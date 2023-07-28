@@ -5,11 +5,11 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/anithareddy6?tab=repositories](https://github.com/anithareddy6?tab=repositories)
 
-- 💬 Ask me about **Html,css,javascript,react,dsa**
+- 💬 Ask me about **Html,css,javascript,react and dsa**
 
 - 📫 How to reach me **https://www.linkedin.com/in/anitha-j-816996285/**
 
-- 📄 Know about my experiences [1.5 years](1.5 years)
+- 📄 Know about my experiences (1.5 years)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
